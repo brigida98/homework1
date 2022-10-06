@@ -1,12 +1,7 @@
 # homework1
  # Submit the homework1
 
-In this section you find the instruction to submit your group assignment.
-
-
-
-
-__Note__ :
+In this section you find the explaination of the repository's content.
 
 
 ## What?
